@@ -3,4 +3,4 @@ location: /Users/manuel/ansible/nodejs-app
 linux_name: manuel
 user_home_dir: /home/{{linux_name}}
 
-docker_password: 
+docker_password: o7JKa^2wwhGtRjmTWBTFQx*3D$G#$s
