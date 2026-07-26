@@ -1,9 +1,9 @@
 [nexus_server]
-3.142.131.54
+3.129.22.209
 
 [docker_server]
+3.142.131.54
 3.133.137.174
-3.129.22.209
 
 [multi:children]
 nexus_server
