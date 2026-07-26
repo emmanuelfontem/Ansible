@@ -42,7 +42,7 @@
       meta: reset_connection
 
 - name: Start docker containers
-  hosts: docker_server
+  hosts: all
   vars_files:
     - project-vars
   tasks:
