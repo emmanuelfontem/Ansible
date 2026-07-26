@@ -4,3 +4,11 @@ linux_name: manuel
 user_home_dir: /home/{{linux_name}}
 
 docker_password: o7JKa^2wwhGtRjmTWBTFQx*3D$G#$s
+
+# dockerhub_username: esendege
+# dockerhub_password: your_dockerhub_token
+
+# image_name: demo-app
+# image_tag: java-maven-2.0
+
+# project_dir: /Users/manuel/demo-app */
